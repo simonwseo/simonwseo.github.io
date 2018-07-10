@@ -315,6 +315,10 @@ button:active{
     align-self: center;
   }
 
+  .contactInfo{
+    text-align: left;
+  }
+
 }
 
 @media (min-width: 48em){
